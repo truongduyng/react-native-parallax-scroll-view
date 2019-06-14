@@ -145,8 +145,8 @@ class ParallaxScrollView extends Component {
 						// onScroll: this._onScroll.bind(this)
 					},
 					foreground,
-					bodyComponent,
-					footerSpacer
+					bodyComponent
+					// footerSpacer
 				)}
 				{maybeStickyHeader}
 			</View>
